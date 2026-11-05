@@ -30,4 +30,4 @@ I build dependable software for real-world problems, with a soft spot for clean 
 
 I'm always open to thoughtful conversations, interesting collaborations, and ambitious ideas that deserve to become working software.
 
-[LinkedIn](https://www.linkedin.com/in/yashwardhan-verma-08927a2bb/)
+[LinkedIn](https://www.linkedin.com/in/yashwardhanv/)
