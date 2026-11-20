@@ -38,10 +38,10 @@ I build backend systems that stay correct under concurrency and failure, and I m
 **Databases:** PostgreSQL, MySQL, Flyway, ACID transactions, row-level locking (`SKIP LOCKED`), partial unique indexes  
 **Frontend:** React, TypeScript, Vite, Tailwind CSS  
 **AI & integrations:** Google Gemini API (structured JSON output), Twilio SMS/WhatsApp, HMAC-SHA256 signed webhooks  
-**Tools & testing:** Docker, Docker Compose, Git, GitHub Actions, Maven, JUnit 5, Testcontainers, Postman
+**Tools & testing:** Docker, Docker Compose, Git, GitHub Actions (CI/CD), Maven, JUnit 5, Testcontainers, Postman
 
 ## Let's connect
 
 I'm always open to thoughtful conversations, interesting collaborations, and ambitious ideas that deserve to become working software.
 
-[LinkedIn](https://www.linkedin.com/in/yashwardhanv/) · [Portfolio](https://yashwardhan-verma-portfolio.vercel.app) · [Résumé](https://drive.google.com/file/d/1hFR2RcNZ52HU58gV48kfhYd84oydRop7/view?usp=drivesdk)
+[LinkedIn](https://www.linkedin.com/in/yashwardhanv/) · [Portfolio](https://yashwardhan-verma-portfolio.vercel.app) · [Résumé](https://drive.google.com/file/d/1Dx8c6DWl2aaxfu95zWf4DYsE-aG00vpT/view?usp=drivesdk)
