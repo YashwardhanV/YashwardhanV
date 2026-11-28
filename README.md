@@ -7,7 +7,7 @@ I build backend systems that stay correct under concurrency and failure, and I m
 ## About me
 
 - B.Tech in Computer Science Engineering (2026), IPS Academy, Indore.
-- Java Developer Intern at Codec Technologies (Jun–Aug 2026): used ExecutorService, Spring Cache and the Strategy pattern to cut report generation time by ~40% and API latency by ~30%.
+- Java Developer Intern at Codec Technologies (Jun–Aug 2026): parallelized report queries on a bounded ExecutorService, centralized error handling with @RestControllerAdvice, cached reference data with Spring Cache, and refactored validation into the Strategy pattern.
 - I care about the hard parts of backend work: race conditions, idempotency, retries, batch processing and transactional state.
 - Every project here is tested against a real PostgreSQL (Testcontainers) and ships with measured numbers, not just a feature list.
 
